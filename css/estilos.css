@@ -93,3 +93,18 @@ nav .active {
     }
   }
 }
+
+h3 {
+  width: 100px;
+  text-align: center;
+  margin-left: 215px;
+  margin-bottom: 10px;
+}
+
+i {
+}
+
+i:hover {
+  cursor: pointer;
+  scale: 1.3;
+}

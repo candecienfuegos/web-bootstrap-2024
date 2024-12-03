@@ -72,6 +72,10 @@ nav .active {
   border-radius: 50%;
 }
 
+.card {
+  height: 535px;
+}
+
 #nuevo .card {
   & img {
     height: 150px;

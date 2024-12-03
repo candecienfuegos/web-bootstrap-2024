@@ -93,3 +93,14 @@ nav .active {
     }
   }
 }
+
+@media (min-width: 1024px) {
+  #destacados {
+    height: 700px;
+  }
+  #carousel-destacados .card{
+    height: 600px;
+    & img {
+      height: 400px;
+  }
+  }
